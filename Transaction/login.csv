@@ -1,0 +1,4 @@
+row_id,user,password,expect_result,,
+1,ahuang@shoedazzle.com,$SHOedazz73,Login Should be Successful,,
+2,xyz@shoedazzle.com,$SHOedazz73,Email is not valid,,
+3,ahuang@shoedazzle.com,shoedazzle,"Password or email address you entered doesn't verify 'Password or email address you entered doesn't match our records. Please check your sign in information and try again.' message",,
